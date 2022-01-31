@@ -1,0 +1,31 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  height: 10vh;
+  background-color: rgb(3, 36, 65);
+}
+
+.navbar-ul {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  list-style: none;
+  min-width: 50%;
+  font-size: large;
+}
+
+.navbar-ul-left {
+  display: flex;
+  justify-content: start;
+
+  color: white;
+  list-style: none;
+  min-width: 20%;
+  font-size: large;
+}
+
+li {
+  color: white;
+}

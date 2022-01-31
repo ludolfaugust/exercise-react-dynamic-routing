@@ -1,0 +1,19 @@
+.cat-fact-container__header {
+  margin: 3em auto;
+}
+
+.cat-fact-container__text {
+  display: flex;
+  margin: 3em auto;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 3px 3px #000;
+  padding: 1rem;
+  font-size: x-large;
+  width: 70%;
+  min-height: 500px;
+  background-image: url(../../images/catfacts.jpg);
+  background-repeat: no repeat;
+  background-size: cover;
+}
